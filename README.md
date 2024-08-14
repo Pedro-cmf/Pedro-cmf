@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-Aqui está uma versão atualizada do seu texto, incluindo essas informações:
-
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília e tenho experiência participando de hackathons, onde pude aplicar e expandir meus conhecimentos de forma prática. Atualmente, estou focado em me especializar na área de back-end, dedicando-me ao estudo diário e mantendo uma rotina disciplinada para me manter atualizado com as melhores práticas e tecnologias. Minha principal linguagem de programação é JavaScript, mas também possuo conhecimentos sólidos em banco de dados, arquitetura de software, metodologias ágeis, testes de software, entre outros aspectos essenciais do desenvolvimento.
 
 
