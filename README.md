@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília e tenho experiência participando de hackathons, onde pude aplicar e expandir meus conhecimentos de forma prática. Atualmente, estou focado em me especializar na área de back-end, dedicando-me ao estudo diário e mantendo uma rotina disciplinada para me manter atualizado com as melhores práticas e tecnologias. Minha principal linguagem de programação é JavaScript, mas também possuo conhecimentos sólidos em banco de dados, arquitetura de software, metodologias ágeis, testes de software, entre outros aspectos essenciais do desenvolvimento.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Tenho experiência participando de hackathons, onde desenvolvi protótipos, aprimorei minhas habilidades técnicas e trabalhei em equipe sob pressão. Atualmente, estou focado em me especializar como desenvolvedor back-end, com uma rotina diária de estudos voltada para práticas modernas de desenvolvimento, arquitetura de software e boas práticas de código.
+
+Tenho como principal linguagem o JavaScript (ES6+), com conhecimentos em Node.js, banco de dados relacionais e não relacionais, testes automatizados, metodologias ágeis (Scrum) e princípios como SOLID e TDD. Também estou aprofundando meus estudos em Java com Spring Boot para fortalecer minha base no back-end.
 
 
 ## 🌐 Socials:
