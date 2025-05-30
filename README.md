@@ -1,8 +1,27 @@
-# 💫 About Me:
+# About Me:
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Tenho experiência participando de hackathons, onde desenvolvi protótipos, aprimorei minhas habilidades técnicas e trabalhei em equipe sob pressão. Atualmente, estou focado em me especializar como desenvolvedor back-end, com uma rotina diária de estudos voltada para práticas modernas de desenvolvimento, arquitetura de software e boas práticas de código.
+Sou desenvolvedor backend, atualmente cursando pós-graduação em Arquitetura de Software pela FIAP. Tenho experiência prática em Java, Spring Boot e arquitetura hexagonal, aplicando conceitos como DDD, Event Storming e boas práticas de desenvolvimento.
 
-Tenho como principal linguagem o JavaScript (ES6+), com conhecimentos em Node.js, banco de dados relacionais e não relacionais, testes automatizados, metodologias ágeis (Scrum) e princípios como SOLID e TDD. Também estou aprofundando meus estudos em Java com Spring Boot para fortalecer minha base no back-end.
+Participei de projetos reais como o Tech Challenge FIAP – FastFood API, onde implementei CRUD completo com tratamento de exceções e arquitetura em camadas (adapters in/out, domain, service). Também atuei em hackathons e projetos de inovação, fortalecendo minha visão de produto, comunicação e trabalho em equipe.
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+Java + Spring Boot + JPA
+
+Arquitetura Hexagonal
+
+Design Patterns
+
+SOLID, TDD
+
+Boas práticas de código e arquitetura moderna
+
+CI/CD, Docker, integração de APIs REST
+
+
+Tenho também experiência com Node.js e React.js em projetos pessoais.
+
+Meu objetivo é evoluir continuamente como desenvolvedor backend e contribuir com soluções de qualidade e propósito em times ágeis.
 
 
 ## 🌐 Socials:
