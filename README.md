@@ -1,5 +1,3 @@
-# About Me:
-
 Sou desenvolvedor backend, atualmente cursando pós-graduação em Arquitetura de Software pela FIAP. Tenho experiência prática em Java, Spring Boot e arquitetura hexagonal, aplicando conceitos como DDD, Event Storming e boas práticas de desenvolvimento.
 
 Participei de projetos reais como o Tech Challenge FIAP – FastFood API, onde implementei CRUD completo com tratamento de exceções e arquitetura em camadas (adapters in/out, domain, service). Também atuei em hackathons e projetos de inovação, fortalecendo minha visão de produto, comunicação e trabalho em equipe.
